@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Jon Middleton
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -16,14 +16,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: jamiddlet
+    github:  jon-middleton
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: jon-middleton
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
